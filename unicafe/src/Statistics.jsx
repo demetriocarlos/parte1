@@ -1,5 +1,8 @@
 
- 
+
+
+
+
 // eslint-disable-next-line react/prop-types
 export const Statistics = ({text,value}) => {
   return (
@@ -15,3 +18,4 @@ export const Statistics = ({text,value}) => {
     </div>
   )
 }
+
